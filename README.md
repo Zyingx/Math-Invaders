@@ -1,6 +1,6 @@
 # Math-Invaders
  Similar with Space Invaders but for young children.
 
-Created in 2019.
-Used Game Engine: Unity.
-Credit by: Ivan, Vun, Aaron
+<h4>Created in 2019. </h4>
+<h4>Used Game Engine: Unity. </h4>
+<h4>Developed by: Ivan, Vun, Aaron and team members</h4>
